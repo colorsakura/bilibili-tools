@@ -15,6 +15,7 @@
     每日登录
     每日分享
     每日观看
+    Server酱消息提醒[https://sc.ftqq.com]
 
 
 
